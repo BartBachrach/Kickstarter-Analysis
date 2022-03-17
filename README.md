@@ -12,7 +12,7 @@ One of the challenges we faced using this data set was that the dates for the fu
 
 ## Results
 ### Outcomes Based on Launch Date
-We discovered theater productions of all types were most successful in the summer months of May through July, with distinctly higher success rates than the other months of the year, particularly May and June. However, overall theater productions were more successful than they were unsuccessful. We did discover that December is the least desirable month to launch a theater production. 
+We discovered theater productions of all types were most successful in the summer months of May through July, with distinctly higher success rates than the other months of the year, particularly May and June. However, overall theater productions were more successful than they were unsuccessful. We did discover that December is the least desirable month to launch a theater production. ![This is an image](https://github.com/BartBachrach/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Outcomes Based on Goals
 The majority of campaigns for plays lie between the funding goal range $0-$9999, with many more campaigns overall successful than not. More specifically, the $1000-$4999 funding goal range was the most successful in the *plays* subcategory. Plays with a funding goal of $50,000 or more failed significantly more often than they succeeded. One reason the $1000-$4999 range performed the way it did was because potential donors can conceive of their contribution making a difference, and the goal is easier to atain than a $50,000+ fundraising goal. 
